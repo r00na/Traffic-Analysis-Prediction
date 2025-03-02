@@ -3,9 +3,6 @@ Traffic Data Analysis
 ## Overview  
 This project processes and analyzes a traffic dataset to extract insights about vehicle counts, traffic conditions, and temporal trends. It includes data preprocessing, feature engineering, outlier detection, and visualization.  
 
-## Files  
-- **untitled77.py**: Python script for loading, preprocessing, analyzing, and visualizing traffic data.  
-
 ## Requirements  
 The script requires the following Python libraries:  
 - `pandas`  
